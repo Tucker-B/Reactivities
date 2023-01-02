@@ -1,0 +1,13 @@
+*.db
+*.db-shm
+*.db-wal
+Persistence/Migrations/*
+.vscode/
+*/bin
+*/obj
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
